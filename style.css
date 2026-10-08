@@ -1380,3 +1380,12 @@ footer {
     height: 100%;
     object-fit: contain;
 }
+.topbar-inner a {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.topbar-inner a:hover {
+    opacity: 0.8;
+}
